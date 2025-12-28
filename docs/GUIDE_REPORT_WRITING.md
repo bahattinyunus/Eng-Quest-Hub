@@ -26,6 +26,23 @@ Projenin bittiği, testlerin başladığı aşamadır.
 *   Alıntı yaptıysanız mutlaka [1] şeklinde referans verin.
 
 ## 4. Kullanışlı Araçlar
-*   **Draw.io:** Akış diyagramları için.
-*   **Overleaf (LaTeX):** Profesyonel rapor formatı için.
-*   **Zotero:** Kaynakça yönetimi için.
+*   **Draw.io / Lucidchart:** Sistem mimarisi ve akış diyagramları için.
+*   **Overleaf (LaTeX):** Profesyonel akademik format için. (TEKNOFEST şablonları genellikle mevcuttur).
+*   **Zotero / Mendeley:** Kaynakça yönetimi için.
+
+## 5. Mühendis Dili vs. Günlük Dil (Örnekler)
+
+| Günlük Dil (❌ Yapma) | Mühendislik Dili (✅ Yap) |
+|---|---|
+| "Motor çok hızlı dönüyor." | "Motor, nominal yükte 3000 RPM devir sayısına ulaşmaktadır." |
+| "Projemiz benzerlerinden daha iyi." | "Projemiz, rakip X sistemine göre %20 daha yüksek enerji verimliliği sunmaktadır (Bkz. Tablo 2)." |
+| "Pili hemen bitmiyor." | "Batarya ömrü, tam yük altında 45 dakika olarak ölçülmüştür." |
+| "İlerde kamera da takacağız." | "Geliştirme Planı (Faz 2) kapsamında sisteme optik görüntüleme modülü entegre edilecektir." |
+
+## 6. Teslim Öncesi Kontrol Listesi (Checklist)
+*   [ ] Kapak sayfasında takım adı ve ID doğru yazıldı mı?
+*   [ ] Tüm şekil ve tabloların açıklaması (caption) var mı?
+*   [ ] Kaynakça IEEE veya APA formatına uygun mu?
+*   [ ] Yazı tipi ve punto kurallara uygun mu? (Genelde Times New Roman, 12pt)
+*   [ ] PDF'e çevirince kayan resim var mı?
+*   [ ] Dosya boyutu sınırın (Örn: 20MB) altında mı?

@@ -80,6 +80,9 @@ Bu repo sadece tarihleri değil, **nasıl kazanılacağını** da içerir.
 *   Trabzon Teknokent'teki gizli staj imkanları.
 *   Bölgesel kariyer fuarlarında (DOKKAF) firma avlama taktikleri.
 
+### 📂 [Şablonlar (Templates)](templates/README.md)
+*   Hazır rapor taslakları ve proje yönetim çizelgeleri.
+
 ---
 
 ## ⚙️ Repo Mimarisi ve Otomasyon

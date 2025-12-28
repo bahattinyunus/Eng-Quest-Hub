@@ -1,0 +1,10 @@
+# 📂 Şablon Kütüphanesi (Template Library)
+
+Burada proje yönetimi ve raporlama süreçlerinizi hızlandıracak hazır şablonlar bulabilirsiniz.
+
+## İçerik Listesi
+
+*   **[📄 Rapor Taslağı (Genel)](REPORT_STRUCTURE_TEMPLATE.md):** Mühendislik projeleri için genel geçer bir rapor iskeleti. İçini doldurarak ilerleyebilirsiniz.
+
+---
+*İhtiyaç duyduğunuz başka şablonlar varsa lütfen Issue açarak bildirin.*
