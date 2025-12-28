@@ -1,0 +1,49 @@
+{
+  "events": [
+    {
+      "name": "TEKNOFEST 2025",
+      "type": "Competition",
+      "deadline": "2025-02-20",
+      "date": "2025-09-01",
+      "url": "https://www.teknofest.org/",
+      "tags": ["National", "Technology", "Aviation"],
+      "status": "Open"
+    },
+    {
+      "name": "TÜBİTAK 2209-A",
+      "type": "Grant",
+      "deadline": "2025-11-01",
+      "date": "2025-11-01",
+      "url": "https://www.tubitak.gov.tr/",
+      "tags": ["Research", "Students", "Funding"],
+      "status": "Predicted"
+    },
+    {
+      "name": "DOKKAF '25",
+      "type": "Career Fair",
+      "deadline": "2025-04-20",
+      "date": "2025-04-21",
+      "url": "https://yetenekkapisi.org/",
+      "tags": ["Local", "Career", "Networking"],
+      "status": "Confirmed"
+    },
+    {
+      "name": "KUDAKAF '25",
+      "type": "Career Fair",
+      "deadline": "2025-04-18",
+      "date": "2025-04-18",
+      "url": "https://yetenekkapisi.org/",
+      "tags": ["Regional", "Career", "Erzurum"],
+      "status": "Confirmed"
+    },
+    {
+      "name": "DataMedX Hackathon",
+      "type": "Hackathon",
+      "deadline": "2025-04-01",
+      "date": "2025-04-01",
+      "url": "#",
+      "tags": ["AI", "Health", "International"],
+      "status": "Confirmed"
+    }
+  ]
+}
