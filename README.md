@@ -105,4 +105,21 @@ Bu proje kolektif bir zekanın ürünüdür.
 *   **Hatalar:** Issues sekmesinden bildirin.
 
 ---
-*Created by Bahattin Yunus. Empowering the next generation of engineers.*
+## 👨‍💻 Mimar & Geliştirici (The Architect)
+
+**Bahattin Yunus Çetin**  
+*IT Architect & Engineering Student @ Trabzon Of Technology Faculty*
+
+Mühendislik displini ve yazılım mimarisi üzerine odaklanarak, yerel potansiyeli global standartlara taşımayı hedefleyen bir teknoloji vizyoneridir.
+
+<div align="left">
+  <a href="https://github.com/bahattinyunus">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bahattinyunus/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+---
+*Empowering the next generation of engineers with data-driven strategies.*
