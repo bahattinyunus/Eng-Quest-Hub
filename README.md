@@ -92,6 +92,8 @@ Bu repo sadece tarihleri değil, **nasıl kazanılacağını** da içerir.
 *   **[Mühendislik Portfolyo Rehberi](docs/ENGINEERING_PORTFOLIO.md):** GitHub ve LinkedIn profilinizi nasıl bir "silaha" dönüştürürsünüz?
 *   **[Teknik Hayatta Kalma Kiti](docs/TECHNICAL_SURVIVAL_KIT.md):** Git, Linux ve Google-fu. Okulda öğretilmeyenler.
 *   **[Soğuk E-Posta Taslakları](templates/COLD_EMAIL_TEMPLATES.md):** Staj ve mentorluk için "cevap aldıran" mailler.
+*   **[Mühendislik Mülakat Rehberi](docs/INTERVIEW_PREP_ENGINEERING.md):** STAR tekniği ve teknik mülakat hileleri.
+*   **[Öğrenciler İçin Freelance](docs/FREELANCING_FOR_STUDENTS.md):** Mezun olmadan dolar kazanmaya başlamak.
 
 ### 🏆 [Elit Yarışmalar & Strateji](docs/COMPETITION_GUIDE.md)
 *   Global (Google, NASA) ve yerel (Teknofest, F1) yarışmaların "derin" listesi.
