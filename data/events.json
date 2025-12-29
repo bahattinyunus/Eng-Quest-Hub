@@ -40,6 +40,81 @@
       "status": "Confirmed"
     },
     {
+      "name": "iGEM Grand Jamboree",
+      "type": "Global",
+      "deadline": "2025-03-31",
+      "date": "2025-10-28",
+      "url": "https://jamboree.igem.org/",
+      "tags": [
+        "Bioengineering",
+        "Synthetic Biology"
+      ],
+      "status": "Confirmed"
+    },
+    {
+      "name": "RoboCup 2025",
+      "type": "Global",
+      "deadline": "2025-02-28",
+      "date": "2025-07-15",
+      "url": "https://robocup.org/",
+      "tags": [
+        "Robotics",
+        "AI",
+        "Brazil"
+      ],
+      "status": "Confirmed"
+    },
+    {
+      "name": "Google CTF 2025",
+      "type": "Competition",
+      "deadline": "2025-06-27",
+      "date": "2025-06-27",
+      "url": "https://capturetheflag.withgoogle.com/",
+      "tags": [
+        "Cybersecurity",
+        "Hacking"
+      ],
+      "status": "Confirmed"
+    },
+    {
+      "name": "ClimateLaunchpad",
+      "type": "Global",
+      "deadline": "2025-03-01",
+      "date": "2025-11-01",
+      "url": "https://climatelaunchpad.org/",
+      "tags": [
+        "Green Tech",
+        "Sustainability"
+      ],
+      "status": "Predicted"
+    },
+    {
+      "name": "AUVSI SUAS 2025",
+      "type": "Competition",
+      "deadline": "2025-01-15",
+      "date": "2025-06-24",
+      "url": "https://www.auvsi-suas.org/",
+      "tags": [
+        "UAV",
+        "Drone",
+        "Autonomous"
+      ],
+      "status": "Confirmed"
+    },
+    {
+      "name": "Kaggle ARC Prize",
+      "type": "Competition",
+      "deadline": "2025-10-27",
+      "date": "2025-11-03",
+      "url": "https://www.kaggle.com/competitions/arc-prize-2024",
+      "tags": [
+        "AI",
+        "Data Science",
+        "Reasoning"
+      ],
+      "status": "Open"
+    },
+    {
       "name": "European Rover Challenge",
       "type": "Competition",
       "deadline": "2025-06-01",
@@ -112,18 +187,6 @@
         "Global",
         "Space",
         "NASA"
-      ],
-      "status": "Confirmed"
-    },
-    {
-      "name": "Hepsiburada AI Hackathon",
-      "type": "Hackathon",
-      "deadline": "2025-08-13",
-      "date": "2025-08-16",
-      "url": "https://coderspace.io",
-      "tags": [
-        "AI",
-        "E-commerce"
       ],
       "status": "Confirmed"
     }
