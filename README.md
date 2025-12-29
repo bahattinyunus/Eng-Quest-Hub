@@ -96,6 +96,8 @@ Bu repo sadece tarihleri değil, **nasıl kazanılacağını** da içerir.
 *   **[Öğrenciler İçin Freelance](docs/FREELANCING_FOR_STUDENTS.md):** Mezun olmadan dolar kazanmaya başlamak.
 *   **[Startup 101](docs/STARTUP_101_FOR_ENGINEERS.md):** Projeyi şirkete dönüştürmek. MVP, yatırımcı sunumu ve hukuk.
 *   **[Akademik Araştırma Rehberi](docs/ACADEMIC_RESEARCH_GUIDE.md):** Makale okuma sanatı ve LaTeX dünyası.
+*   **[Bitirme Projesi Rehberi](docs/CAPSTONE_PROJECT_GUIDE.md):** Konu seçimi, hoca yönetimi ve tez yazma taktikleri.
+*   **[Stajdan İşe Geçiş](docs/INTERNSHIP_GUIDE.md):** Stajyerlikten "Junior Mühendis"liğe terfi etme sanatı.
 
 ### 🏆 [Elit Yarışmalar & Strateji](docs/COMPETITION_GUIDE.md)
 *   Global (Google, NASA) ve yerel (Teknofest, F1) yarışmaların "derin" listesi.
