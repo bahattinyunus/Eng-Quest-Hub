@@ -42,6 +42,16 @@ Bir firmaya staj/iş için mail atarken "Staj arıyorum" demek yetmez. Değer ö
 *   **GDG Trabzon:** Yazılım ve Google teknolojileri üzerine etkinlikler.
 *   **T3 Vakfı Temsilcilikleri:** Deneyap atölyelerinde eğitmenlik fırsatları.
 
+## 4. Global ve Remote Fırsatlar (Sınırları Aşın)
+Trabzon'da olmanız, dünyaya açılmanıza engel değil.
+*   **Remote Stajlar:** LinkedIn'de "Remote Intern" araması yapın. Özellikle İstanbul ve Avrupa merkezli startup'lar uzaktan çalışmaya çok açıktır.
+*   **Açık Kaynak (Open Source):** Global projelere katkı vererek (Google Summer of Code vb.) CV'nizi parlatın.
+
+## 5. Mülakat Hazırlık (Interview Prep)
+Teknik bir mühendislik mülakatına girmeden önce şunlara hazır olun:
+1.  **"Bana bir projeni anlat":** En iyi bildiğin projeyi, karşı taraf hiç bilmiyormuş gibi basitçe ama teknik detay vererek anlat.
+2.  **Temel Kavramlar:** Bölümünüzün "Hello World"ü sayılabilecek soruları (Örn: Transistör nedir? OOP prensipleri nelerdir?) adınız gibi bilin.
+
 ## 3. Yarışma Hazırlık Merkezleri
 *   Okulunuzdaki atölyeleri (Örn: KTÜ Düşünden Gerçeğe) aktif kullanın. Malzeme desteği buralardan sağlanabilir.
 
