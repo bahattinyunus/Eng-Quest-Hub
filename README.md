@@ -94,6 +94,8 @@ Bu repo sadece tarihleri değil, **nasıl kazanılacağını** da içerir.
 *   **[Soğuk E-Posta Taslakları](templates/COLD_EMAIL_TEMPLATES.md):** Staj ve mentorluk için "cevap aldıran" mailler.
 *   **[Mühendislik Mülakat Rehberi](docs/INTERVIEW_PREP_ENGINEERING.md):** STAR tekniği ve teknik mülakat hileleri.
 *   **[Öğrenciler İçin Freelance](docs/FREELANCING_FOR_STUDENTS.md):** Mezun olmadan dolar kazanmaya başlamak.
+*   **[Startup 101](docs/STARTUP_101_FOR_ENGINEERS.md):** Projeyi şirkete dönüştürmek. MVP, yatırımcı sunumu ve hukuk.
+*   **[Akademik Araştırma Rehberi](docs/ACADEMIC_RESEARCH_GUIDE.md):** Makale okuma sanatı ve LaTeX dünyası.
 
 ### 🏆 [Elit Yarışmalar & Strateji](docs/COMPETITION_GUIDE.md)
 *   Global (Google, NASA) ve yerel (Teknofest, F1) yarışmaların "derin" listesi.
