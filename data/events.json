@@ -14,6 +14,82 @@
       "status": "Open"
     },
     {
+      "name": "Google Solution Challenge",
+      "type": "Global",
+      "deadline": "2025-03-06",
+      "date": "2025-03-06",
+      "url": "https://developers.google.com/community/gdsc-solution-challenge",
+      "tags": [
+        "Global",
+        "Google",
+        "SDG"
+      ],
+      "status": "Open"
+    },
+    {
+      "name": "Microsoft Imagine Cup",
+      "type": "Global",
+      "deadline": "2025-01-22",
+      "date": "2025-05-01",
+      "url": "https://imaginecup.microsoft.com",
+      "tags": [
+        "Global",
+        "Startup",
+        "AI"
+      ],
+      "status": "Confirmed"
+    },
+    {
+      "name": "European Rover Challenge",
+      "type": "Competition",
+      "deadline": "2025-06-01",
+      "date": "2025-08-29",
+      "url": "https://roverchallenge.eu",
+      "tags": [
+        "Robotics",
+        "Space",
+        "Europe"
+      ],
+      "status": "Confirmed"
+    },
+    {
+      "name": "ÇEİS Yapı Tasarım",
+      "type": "Competition",
+      "deadline": "2025-05-29",
+      "date": "2025-07-24",
+      "url": "https://yapitasarimyarismasi.com",
+      "tags": [
+        "Civil Eng",
+        "Architecture",
+        "Design"
+      ],
+      "status": "Predicted"
+    },
+    {
+      "name": "DASK Bina Tasarımı",
+      "type": "Competition",
+      "deadline": "2025-04-01",
+      "date": "2025-05-13",
+      "url": "https://dask.gov.tr",
+      "tags": [
+        "Civil Eng",
+        "Earthquake"
+      ],
+      "status": "Confirmed"
+    },
+    {
+      "name": "Formula Student Turkey",
+      "type": "Competition",
+      "deadline": "2025-03-01",
+      "date": "2025-08-01",
+      "url": "https://fsturkiye.com",
+      "tags": [
+        "Automotive",
+        "Racing"
+      ],
+      "status": "Predicted"
+    },
+    {
       "name": "TÜBİTAK 2209-A (2025-2)",
       "type": "Grant",
       "deadline": "2025-11-19",
@@ -40,19 +116,6 @@
       "status": "Confirmed"
     },
     {
-      "name": "DataMedX Hackathon",
-      "type": "Hackathon",
-      "deadline": "2025-05-16",
-      "date": "2025-05-23",
-      "url": "https://istinye.edu.tr",
-      "tags": [
-        "Health",
-        "AI",
-        "Data"
-      ],
-      "status": "Confirmed"
-    },
-    {
       "name": "Hepsiburada AI Hackathon",
       "type": "Hackathon",
       "deadline": "2025-08-13",
@@ -60,20 +123,7 @@
       "url": "https://coderspace.io",
       "tags": [
         "AI",
-        "E-commerce",
-        "TEKNOFEST"
-      ],
-      "status": "Confirmed"
-    },
-    {
-      "name": "Türkiye-Yunanistan Hackathonu",
-      "type": "Hackathon",
-      "deadline": "2025-01-08",
-      "date": "2025-02-20",
-      "url": "https://bilisimvadisi.com.tr",
-      "tags": [
-        "International",
-        "Innovation"
+        "E-commerce"
       ],
       "status": "Confirmed"
     }

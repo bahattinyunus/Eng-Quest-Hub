@@ -59,10 +59,14 @@ Burada, bir mühendislik öğrencisinin 4 yılını nasıl geçirmesi gerektiği
 
 | 📅 Tarih | Etkinlik Adı | Tür | Durum | Link |
 |---|---|---|---|---|
-| 2025-02-20 | Türkiye-Yunanistan Hackathonu | Hackathon | 🟡 Confirmed | [🔗 Link](https://bilisimvadisi.com.tr) |
-| 2025-05-23 | DataMedX Hackathon | Hackathon | 🟡 Confirmed | [🔗 Link](https://istinye.edu.tr) |
+| 2025-02-20 | TEKNOFEST 2025 | Competition | 🟢 Open | [🔗 Link](https://www.teknofest.org/) |
+| 2025-03-01 | Formula Student Turkey | Competition | ⚪ Predicted | [🔗 Link](https://fsturkiye.com) |
+| 2025-03-06 | Google Solution Challenge | Global | 🟢 Open | [🔗 Link](https://developers.google.com/community/gdsc-solution-challenge) |
+| 2025-05-01 | Microsoft Imagine Cup | Global | 🟡 Confirmed | [🔗 Link](https://imaginecup.microsoft.com) |
+| 2025-05-13 | DASK Bina Tasarımı | Competition | 🟡 Confirmed | [🔗 Link](https://dask.gov.tr) |
+| 2025-07-24 | ÇEİS Yapı Tasarım | Competition | ⚪ Predicted | [🔗 Link](https://yapitasarimyarismasi.com) |
 | 2025-08-16 | Hepsiburada AI Hackathon | Hackathon | 🟡 Confirmed | [🔗 Link](https://coderspace.io) |
-| 2025-09-01 | TEKNOFEST 2025 | Competition | 🟢 Open | [🔗 Link](https://www.teknofest.org/) |
+| 2025-08-29 | European Rover Challenge | Competition | � Confirmed | [🔗 Link](https://roverchallenge.eu) |
 | 2025-10-04 | NASA Space Apps Challenge | Hackathon | 🟡 Confirmed | [🔗 Link](https://www.spaceappschallenge.org/) |
 | 2025-11-19 | TÜBİTAK 2209-A (2025-2) | Grant | 🟡 Confirmed | [🔗 Link](https://tubitak.gov.tr) |
 
@@ -80,6 +84,10 @@ Bu repo sadece tarihleri değil, **nasıl kazanılacağını** da içerir.
 ### 📍 [Lokal Fırsatlar](docs/OPPORTUNITIES_LOCAL.md)
 *   Trabzon Teknokent'teki gizli staj imkanları.
 *   Bölgesel kariyer fuarlarında (DOKKAF) firma avlama taktikleri.
+
+### 🏆 [Elit Yarışmalar & Strateji](docs/COMPETITION_GUIDE.md)
+*   Global (Google, NASA) ve yerel (Teknofest, F1) yarışmaların "derin" listesi.
+*   Hangi yarışma kariyerine ne katar? Stratejik analiz.
 
 ### 📂 [Şablonlar (Templates)](templates/README.md)
 *   Hazır rapor taslakları ve proje yönetim çizelgeleri.
