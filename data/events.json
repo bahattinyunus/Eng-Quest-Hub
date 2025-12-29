@@ -6,43 +6,75 @@
       "deadline": "2025-02-20",
       "date": "2025-09-01",
       "url": "https://www.teknofest.org/",
-      "tags": ["National", "Technology", "Aviation"],
+      "tags": [
+        "National",
+        "Aviation",
+        "Technology"
+      ],
       "status": "Open"
     },
     {
-      "name": "TÜBİTAK 2209-A",
+      "name": "TÜBİTAK 2209-A (2025-2)",
       "type": "Grant",
-      "deadline": "2025-11-01",
-      "date": "2025-11-01",
-      "url": "https://www.tubitak.gov.tr/",
-      "tags": ["Research", "Students", "Funding"],
-      "status": "Predicted"
-    },
-    {
-      "name": "DOKKAF '25",
-      "type": "Career Fair",
-      "deadline": "2025-04-20",
-      "date": "2025-04-21",
-      "url": "https://yetenekkapisi.org/",
-      "tags": ["Local", "Career", "Networking"],
+      "deadline": "2025-11-19",
+      "date": "2025-11-19",
+      "url": "https://tubitak.gov.tr",
+      "tags": [
+        "Research",
+        "Grant",
+        "Students"
+      ],
       "status": "Confirmed"
     },
     {
-      "name": "KUDAKAF '25",
-      "type": "Career Fair",
-      "deadline": "2025-04-18",
-      "date": "2025-04-18",
-      "url": "https://yetenekkapisi.org/",
-      "tags": ["Regional", "Career", "Erzurum"],
+      "name": "NASA Space Apps Challenge",
+      "type": "Hackathon",
+      "deadline": "2025-10-01",
+      "date": "2025-10-04",
+      "url": "https://www.spaceappschallenge.org/",
+      "tags": [
+        "Global",
+        "Space",
+        "NASA"
+      ],
       "status": "Confirmed"
     },
     {
       "name": "DataMedX Hackathon",
       "type": "Hackathon",
-      "deadline": "2025-04-01",
-      "date": "2025-04-01",
-      "url": "#",
-      "tags": ["AI", "Health", "International"],
+      "deadline": "2025-05-16",
+      "date": "2025-05-23",
+      "url": "https://istinye.edu.tr",
+      "tags": [
+        "Health",
+        "AI",
+        "Data"
+      ],
+      "status": "Confirmed"
+    },
+    {
+      "name": "Hepsiburada AI Hackathon",
+      "type": "Hackathon",
+      "deadline": "2025-08-13",
+      "date": "2025-08-16",
+      "url": "https://coderspace.io",
+      "tags": [
+        "AI",
+        "E-commerce",
+        "TEKNOFEST"
+      ],
+      "status": "Confirmed"
+    },
+    {
+      "name": "Türkiye-Yunanistan Hackathonu",
+      "type": "Hackathon",
+      "deadline": "2025-01-08",
+      "date": "2025-02-20",
+      "url": "https://bilisimvadisi.com.tr",
+      "tags": [
+        "International",
+        "Innovation"
+      ],
       "status": "Confirmed"
     }
   ]

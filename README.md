@@ -59,11 +59,12 @@ Burada, bir mühendislik öğrencisinin 4 yılını nasıl geçirmesi gerektiği
 
 | 📅 Tarih | Etkinlik Adı | Tür | Durum | Link |
 |---|---|---|---|---|
-| 2025-04-01 | DataMedX Hackathon | Hackathon | 🟡 Confirmed | [🔗 Link](#) |
-| 2025-04-18 | KUDAKAF '25 | Career Fair | 🟡 Confirmed | [🔗 Link](https://yetenekkapisi.org/) |
-| 2025-04-21 | DOKKAF '25 | Career Fair | 🟡 Confirmed | [🔗 Link](https://yetenekkapisi.org/) |
+| 2025-02-20 | Türkiye-Yunanistan Hackathonu | Hackathon | 🟡 Confirmed | [🔗 Link](https://bilisimvadisi.com.tr) |
+| 2025-05-23 | DataMedX Hackathon | Hackathon | 🟡 Confirmed | [🔗 Link](https://istinye.edu.tr) |
+| 2025-08-16 | Hepsiburada AI Hackathon | Hackathon | 🟡 Confirmed | [🔗 Link](https://coderspace.io) |
 | 2025-09-01 | TEKNOFEST 2025 | Competition | 🟢 Open | [🔗 Link](https://www.teknofest.org/) |
-| 2025-11-01 | TÜBİTAK 2209-A | Grant | ⚪ Predicted | [🔗 Link](https://www.tubitak.gov.tr/) |
+| 2025-10-04 | NASA Space Apps Challenge | Hackathon | 🟡 Confirmed | [🔗 Link](https://www.spaceappschallenge.org/) |
+| 2025-11-19 | TÜBİTAK 2209-A (2025-2) | Grant | 🟡 Confirmed | [🔗 Link](https://tubitak.gov.tr) |
 
 ---
 
