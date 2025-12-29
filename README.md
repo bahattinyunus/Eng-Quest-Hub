@@ -93,8 +93,10 @@ Bu repo sadece tarihleri değil, **nasıl kazanılacağını** da içerir.
 ### 🏆 [Elit Yarışmalar & Strateji](docs/COMPETITION_GUIDE.md)
 *   Global (Google, NASA) ve yerel (Teknofest, F1) yarışmaların "derin" listesi.
 *   Hangi yarışma kariyerine ne katar? Stratejik analiz.
+*   **[Hackathon Survival Guide](docs/HACKATHON_SURVIVAL.md):** 48 saatlik maratondan sağ çıkma rehberi.
 
 ### 📂 [Şablonlar (Templates)](templates/README.md)
+*   **[Sponsorluk Dosyası](templates/SPONSORSHIP_PROPOSAL.md):** Takımınız için profesyonel fon toplama şablonu.
 *   Hazır rapor taslakları ve proje yönetim çizelgeleri.
 
 ---
