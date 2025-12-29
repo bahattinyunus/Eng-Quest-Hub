@@ -15,25 +15,6 @@ Modern mühendislik eğitimindeki en büyük yanılgı, sadece ders geçmenin ye
 2.  **Kültür:** "Dersi geç yeter" mantığını yıkıp, "Üret, proje yap, network kur" kültürünü aşılamak.
 3.  **Lokal Global:** Yerel potansiyeli (Teknokentler, DOKKAF) ulusal ve uluslararası arenalara (TEKNOFEST, Hackathonlar) taşımak.
 
----
- 
- ## 🌳 Proje Yapısı (Project Tree)
- 
- Bu repo, modüler ve sürdürülebilir bir yapı üzerine kurulmuştur:
- 
- ```bash
- ├── data/
- │   └── events.json        # 🏆 Tüm etkinlik verilerinin kaynağı
- ├── docs/
- │   ├── GUIDE_REPORT_WRITING.md  # 📝 Rapor yazma sanatı
- │   ├── OPPORTUNITIES_LOCAL.md   # 📍 Yerel fırsatlar
- │   └── ROADMAP.md               # 🗺️ Gelecek vizyonu
- ├── scripts/
- │   └── update_events.py   # ⚙️ Otomasyon motoru
- └── templates/
-     └── README.md          # 📂 Şablon kütüphanesi
- ```
- 
  ---
 
 ## 🗺️ Mühendislik Kariyer Yol Haritası (Yıl Yıl Strateji)
