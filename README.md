@@ -89,6 +89,7 @@ Bu repo sadece tarihleri değil, **nasıl kazanılacağını** da içerir.
 ### 📍 [Lokal Fırsatlar](docs/OPPORTUNITIES_LOCAL.md)
 *   Trabzon Teknokent'teki gizli staj imkanları.
 *   Bölgesel kariyer fuarlarında (DOKKAF) firma avlama taktikleri.
+*   **[Mühendislik Portfolyo Rehberi](docs/ENGINEERING_PORTFOLIO.md):** GitHub ve LinkedIn profilinizi nasıl bir "silaha" dönüştürürsünüz? (Yeni!)
 
 ### 🏆 [Elit Yarışmalar & Strateji](docs/COMPETITION_GUIDE.md)
 *   Global (Google, NASA) ve yerel (Teknofest, F1) yarışmaların "derin" listesi.
